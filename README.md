@@ -17,4 +17,10 @@ This is my First Game I developed using Tutorial '2D Platformer' on 'Unity'.
          
 <hr>
 
-You can play this game on link given below :- https://play.unity.com/mg/other/new-folder-670
+# You can play this game on link given below :- 
+  https://play.unity.com/mg/other/new-folder-670
+  <hr>
+
+# License and copyright
+© MrHappyhere
+Licensed under The [MIT License](LICENSE).
